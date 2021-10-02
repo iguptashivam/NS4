@@ -136,3 +136,4 @@ Now go back to your ns root folder, and run
 Cheers!
 
 ## <a name="simulate">NS4 Simulation Instructions</a>
+ye bhi theek hai bhai isko tu sidha upload kar de 
